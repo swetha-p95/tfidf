@@ -1,1 +1,3 @@
 joblib
+pickle
+scikit-learn
